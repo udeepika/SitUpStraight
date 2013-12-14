@@ -1,0 +1,135 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/sit"
+    android:gravity="center"
+    android:orientation="vertical" >
+
+    <TextView
+        android:id="@+id/TextView01"
+        style="@style/sectionHeader"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="40dp"
+        android:layout_weight="0.19"
+        android:text="@string/text1"
+        android:textSize="20sp"
+        android:textStyle="bold"
+        android:typeface="sans" />
+
+    <LinearLayout
+        android:id="@+id/linearLayout1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" >
+
+        <EditText
+            android:id="@+id/txtDate"
+            android:layout_width="66dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="0.92"
+            android:ems="10" />
+
+        <Button
+            android:id="@+id/btnCalendar"
+            style="@style/ButtonText"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="0.50"
+            android:background="@drawable/btn_red"
+            android:text="@string/calendar" />
+
+        <EditText
+            android:id="@+id/txtDate1"
+            android:layout_width="66dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="0.92"
+            android:ems="10" />
+
+        <Button
+            android:id="@+id/btnCalendar1"
+            style="@style/ButtonText"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="0.50"
+            android:background="@drawable/btn_red"
+            android:text="@string/calendar" />
+    </LinearLayout>
+
+    <Button
+        android:id="@+id/button1"
+        style="@style/ButtonText"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="@drawable/bg_blue"
+        android:gravity="center"
+        android:text="@string/showme" />
+
+    <TextView
+        android:id="@+id/textView2"
+        style="@style/sectionHeader"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="75dp"
+        android:layout_weight="0.25"
+        android:text="@string/text2"
+        android:textSize="20sp"
+        android:textStyle="bold"
+        android:typeface="sans" />
+
+    <LinearLayout
+        android:id="@+id/linearLayout2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" >
+
+        <EditText
+            android:id="@+id/txtDate2"
+            android:layout_width="66dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="0.92"
+            android:ems="10" />
+
+        <Button
+            android:id="@+id/btnCalendar2"
+            style="@style/ButtonText"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="0.50"
+            android:background="@drawable/btn_red"
+            android:text="@string/calendar" />
+
+        <EditText
+            android:id="@+id/txtDate3"
+            android:layout_width="66dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="0.92"
+            android:ems="10" />
+
+        <Button
+            android:id="@+id/btnCalendar3"
+            style="@style/ButtonText"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="0.50"
+            android:background="@drawable/btn_red"
+            android:text="@string/calendar" />
+    </LinearLayout>
+
+    <Button
+        android:id="@+id/button2"
+        style="@style/ButtonText"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="@drawable/bg_blue"
+        android:gravity="center"
+        android:text="@string/showme" />
+
+    <Button
+        android:id="@+id/score_btn"
+        style="@style/ButtonText"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="@drawable/bg_blue"
+        android:text="Posture Score" />
+
+</LinearLayout>
