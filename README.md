@@ -4,6 +4,7 @@ SitUpStraight
 Authors
 -------------
 Sanjana Kamath sanjana@pdx.edu
+
 Deepika Punyamurtula udeepika@pdx.edu
  
 
