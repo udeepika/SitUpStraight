@@ -13,3 +13,7 @@ We therefore delved into the topic of a wearable for posture correction, by util
 When a bad posture is detected, the user is notified through sound output. His/her posture data is collected and can be viewed in our specially created Android application “Sit up Straight”. 
 Individuals who are afflicted with headaches, pain in the back, shoulder and neck can greatly benefit from this device. It aims at changing user’s improper posture habits over time. 
 It is designed to support back health and improve body awareness.
+
+
+[Presentation] (https://github.com/udeepika/SitUpStraight/blob/master/Sit%20Up%20Straight.pptx)
+
