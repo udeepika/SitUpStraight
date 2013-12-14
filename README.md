@@ -15,5 +15,7 @@ Individuals who are afflicted with headaches, pain in the back, shoulder and nec
 It is designed to support back health and improve body awareness.
 
 
-[Presentation] (https://github.com/udeepika/SitUpStraight/blob/master/Sit%20Up%20Straight.pptx)
+[In-class Presentation .pptx file ] (https://github.com/udeepika/SitUpStraight/blob/master/Sit%20Up%20Straight.pptx)
+
+
 
